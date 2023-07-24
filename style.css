@@ -40,6 +40,12 @@ footer > img {
   height: 500px;
   opacity: 0.7;
 }
+.subtitle {
+  color: white;
+  font-family: "good", sans-serif;
+  text-align: center;
+  font-size: 8px;
+}
 .background-img-first > img {
   object-position: 600px;
 }
@@ -126,6 +132,11 @@ li > div > p {
     width: 300px;
     height: 240px;
   }
+  .subtitle {
+    font-size: 12px;
+    text-align: start;
+    width: 334px;
+  }
   .second-container-second > img {
     position: absolute;
     margin-bottom: 20px;
@@ -179,6 +190,9 @@ li > div > p {
     font-size: 20px;
     margin-bottom: 20px;
   }
+  .subtitle {
+    width: 421px;
+  }
   .second-container-second > img {
     max-width: 65%;
   }
@@ -191,7 +205,7 @@ li > div > p {
   }
   .first-section {
     height: 500px;
-    margin-bottom: 0px;
+    margin-bottom: 20px;
   }
   .five-container-info > p {
     max-width: 50%;
