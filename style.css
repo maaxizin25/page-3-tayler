@@ -93,7 +93,8 @@ li > div > p {
   display: flex;
   align-items: center;
   font-size: 21px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
 }
 .card-one {
   animation: slideFromTop 1s ease;
@@ -115,7 +116,6 @@ li > div > p {
 }
 @media (min-width: 334px) {
   .container-info-first > h2 {
-    width: 332px;
     font-size: 16px;
   }
   ul > li {
